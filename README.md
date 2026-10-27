@@ -2,6 +2,8 @@
 
 # Klasifikasi Presipitasi Harian di Kota Medan
 
+### Link Video Demo: https://youtu.be/M5L2u5qutrE
+
 ## Deskripsi
 
 Proyek tugas kelompok Machine Learning Fundamental ini
