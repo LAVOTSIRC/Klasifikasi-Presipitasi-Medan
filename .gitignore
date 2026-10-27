@@ -5,3 +5,6 @@
 # Mengabaikan file temporary/cache dari Python
 __pycache__/
 *.pyc
+
+# Mengabaikan virtual environment
+venv/
