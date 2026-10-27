@@ -1,0 +1,7 @@
+# Mengabaikan checkpoint Jupyter di semua sub-folder (termasuk notebooks/)
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Mengabaikan file temporary/cache dari Python
+__pycache__/
+*.pyc
