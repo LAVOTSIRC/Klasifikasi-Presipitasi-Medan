@@ -2,6 +2,13 @@
 
 # Klasifikasi Presipitasi Harian di Kota Medan
 
+## ANGGOTA KELOMPOK:
+
+1. Alfiyana Fadillah Ashary (241401024)
+2. Cristoval Pratama Siahaan (241401057)
+3. Jeconia Farica Sitorus  (241401108)
+4. Rio Ganda Pahala Sianipar 251401033
+
 ### Link Video Demo: https://youtu.be/M5L2u5qutrE
 
 ## Deskripsi
